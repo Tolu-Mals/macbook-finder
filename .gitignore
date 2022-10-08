@@ -25,3 +25,5 @@
 # Ignore js files since they will be generated from ts files
 **/**.js
 **/.env
+
+server/macbook-finder-firebase-adminsdk-fgnqf-2cb1ae7eb7.json
